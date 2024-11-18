@@ -19,36 +19,39 @@ function Home2() {
               LET ME <span className="purple"> INTRODUCE </span> MYSELF
             </h1>
             <p className="home-about-body">
-              I fell in love with programming and I have at least learnt
-              something, I think… 🤷‍♂️
+              I fell in love with G&E late 2023 and have not worked 
+              a different department since…
               <br />
-              <br />I am fluent in classics like
+              <br />My main console is 
               <i>
-                <b className="purple"> C++, Javascript and Go. </b>
+                <b className="purple"> Blackout Lighting Console, 
+                but I am also versed in Luminair, Sidus Link Pro, 
+                and hoping to learn ETC soon. </b>
               </i>
               <br />
               <br />
-              My field of Interest's are building new &nbsp;
+              I'm interested in&nbsp;
               <i>
-                <b className="purple">Web Technologies and Products </b> and
-                also in areas related to{" "}
+                <b className="purple">continuing to provide on set lighting solutions </b> and
+                hopefully learn how to{" "}
                 <b className="purple">
-                  Blockchain.
+                 manufacture DMX/CRMX hardware in house.
                 </b>
               </i>
               <br />
               <br />
-              Whenever possible, I also apply my passion for developing products
-              with <b className="purple">Node.js</b> and
+              Whenever possible, I am tinkering with industry standard products
+              while also looking into
+                <b className="purple"> micro controllers</b> and
               <i>
                 <b className="purple">
                   {" "}
-                  Modern Javascript Library and Frameworks
+                  different RF protocols and antennas
                 </b>
               </i>
               &nbsp; like
               <i>
-                <b className="purple"> React.js and Next.js</b>
+                <b className="purple"> 2.4GHZ CRMX, 6GHZ WiFi, 6GHZ video transmission (Teradek).</b>
               </i>
             </p>
           </Col>
