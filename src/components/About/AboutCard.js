@@ -8,40 +8,35 @@ function AboutCard() {
       <Card.Body>
         <blockquote className="blockquote mb-0">
         <p style={{ textAlign: "justify" }}>
-    Hi Everyone, my name is <span className="purple">David Seungwoo Lee </span>
-    and I am a <span className="purple">Lighting Console Programmer</span> based in <span className="purple">Chicago</span>.
+            I was born in <span className="purple">Washington D.C.</span>, but grew up in <span className="purple">Virginia, South Korea, Thailand, Germany, Oregon</span> and now reside in <span className="purple">Chicago, Illinois.</span>
             <br />
             <br />
-            I was born in Washington D.C. but grew up in Virginia, South Korea, Thailand, Germany, Oregon, and now reside in Illinois.
+            I have two years of <span className="purple">military </span> and<span className="purple"> social services experience (2018-2020)</span>, for serving the <span className="purple">South Korean military </span>in order to retain my <span className="purple">dual citizenship</span> with the <span className="purple">United States</span>.
             <br />
             <br />
-        
-            I graduated from DePaul University in 2024 with a Degree in Film & Television: Directing and a Minor in Music Industry: Recording.
+            I graduated from <span className="purple">DePaul University</span> in 2024 with a Bachelors of Fine Arts in <span className="purple">Film & Television: Directing </span> 
+            and a <span className="purple">Minor in Music Industry: Recording</span>, where I found <span className="purple">G&E my senior year</span> and <span className="purple">never looked back!</span>
             <br />
             <br />
-            Although my academic career focused on different aspects of filmmaking and music production,
-            I personally fell in love with G&E my senior year. 
-            <br />
-            For the past few months, I have been focusing on DMX/CRMX hardline or wireless network infrastructure,
-            pre-programming fx for different fixtures, programming on the fly, board op-ing on sets, 
-            and am now honing my skills in creating pre-planned lighting show sets synced to timecode. 
-            <br />
-            <br />
-            Apart from filmmaking, some other activities that I love to do!
+            <span className="purple">Apart from filmmaking,</span> some other <span className="purple">activities that I love</span> to do!
           </p>
           <ul>
             <li className="about-activity">
-              <ImPointRight /> Playing Games
+              <ImPointRight /> <span className="purple">Climbing the ranks of Valorant</span>
             </li>
             <li className="about-activity">
-              <ImPointRight /> Making coffee and and tea
+              <ImPointRight /> <span className="purple">Brewing coffee and and tea</span>
             </li>
             <li className="about-activity">
-              <ImPointRight /> Playing electric guitar!
+              <ImPointRight /> <span className="purple">Playing electric guitar</span>
+            </li>
+            <li className="about-activity">
+              <ImPointRight /> <span className="purple">Learning to code this website!</span>
             </li>
           </ul>
+          <br />
 
-          <p style={{ color: "rgb(155 126 172)" }}>
+          <p style={{ color: "rgb(55, 219, 222, 1)" }}>
             "Become the cavalry."{" "}
           </p>
           <footer className="blockquote-footer">David</footer>

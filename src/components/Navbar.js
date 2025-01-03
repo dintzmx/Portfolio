@@ -85,13 +85,26 @@ function NavBar() {
             <Nav.Item>
               <Nav.Link
                 as={Link}
+                to="/BTS"
+                onClick={() => updateExpanded(false)}
+              >
+                <AiOutlineFundProjectionScreen
+                  style={{ marginBottom: "2px" }}
+                />{" "}
+                Other Works
+              </Nav.Link>
+            </Nav.Item>
+
+            <Nav.Item>
+              <Nav.Link
+                as={Link}
                 to="/resume"
                 onClick={() => updateExpanded(false)}
               >
                 <CgFileDocument style={{ marginBottom: "2px" }} /> Resume
               </Nav.Link>
             </Nav.Item>
-
+            {/*}
             <Nav.Item>
               <Nav.Link
                 href="https://soumyajitblogs.vercel.app/"
@@ -101,7 +114,8 @@ function NavBar() {
                 <ImBlog style={{ marginBottom: "2px" }} /> Blogs
               </Nav.Link>
             </Nav.Item>
-
+            */}
+            {/*}
             <Nav.Item className="fork-btn">
               <Button
                 href="https://github.com/soumyajit4419/Portfolio"
@@ -112,6 +126,7 @@ function NavBar() {
                 <AiFillStar style={{ fontSize: "1.1em" }} />
               </Button>
             </Nav.Item>
+            */}
           </Nav>
         </Navbar.Collapse>
       </Container>
