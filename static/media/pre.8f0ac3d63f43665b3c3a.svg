@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_1" xmlns="http://www.w3.org/2000/svg" version="1.1" viewBox="-70 -70 200 200">
+  <!-- Generator: Adobe Illustrator 29.1.0, SVG Export Plug-In . SVG Version: 2.1.0 Build 142)  -->
+  <defs>
+    <style>
+      .st0 {
+        fill: none;
+        stroke: #30fcd2;
+        stroke-miterlimit: 5.6;
+        stroke-width: 2.8px;
+      }
+    </style>
+  </defs>
+  <circle class="st0" cx="8.4" cy="71.6" r="7">
+    <animate accumulate="none" additive="replace" attributeName="cy" begin="0s" calcMode="linear" dur="2.2s" fill="remove" repeatCount="indefinite" restart="always" values="50;5;50;50"/>
+    <animate accumulate="none" additive="replace" attributeName="cx" begin="0s" calcMode="linear" dur="2.2s" fill="remove" repeatCount="indefinite" restart="always" values="5;27;49;5"/>
+  </circle>
+  <circle class="st0" cx="39.3" cy="8.4" r="7">
+    <animate accumulate="none" additive="replace" attributeName="cy" begin="0s" calcMode="linear" dur="2.2s" fill="remove" from="5" repeatCount="indefinite" restart="always" to="5" values="5;50;50;5"/>
+    <animate accumulate="none" additive="replace" attributeName="cx" begin="0s" calcMode="linear" dur="2.2s" fill="remove" from="27" repeatCount="indefinite" restart="always" to="27" values="27;49;5;27"/>
+  </circle>
+  <circle class="st0" cx="70.2" cy="71.6" r="7">
+    <animate accumulate="none" additive="replace" attributeName="cy" begin="0s" calcMode="linear" dur="2.2s" fill="remove" repeatCount="indefinite" restart="always" values="50;50;5;50"/>
+    <animate accumulate="none" additive="replace" attributeName="cx" begin="0s" calcMode="linear" dur="2.2s" fill="remove" from="49" repeatCount="indefinite" restart="always" to="49" values="49;5;27;49"/>
+  </circle>
+</svg>
