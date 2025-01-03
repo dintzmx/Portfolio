@@ -38,6 +38,7 @@ function Projects() {
             <>
               Director: Khafre Liggens<br />
               <span style={{ marginLeft: "0px" }}>DP: Afrim Zenuni</span><br />
+              <span style={{ marginLeft: "0px" }}>Gaffer: Victor Garcés</span><br />
               <span style={{ marginLeft: "0px" }}>Role: Dimmer Board Operator</span>
             </>
            }
@@ -54,6 +55,7 @@ function Projects() {
                 <>
                   Directors: Afrim Zenuni & Elle Asunta<br />
                   <span style={{ marginLeft: "0px" }}>DP: Afrim Zenuni</span><br />
+                  <span style={{ marginLeft: "0px" }}>Gaffer: Victor Garcés</span><br />
                   <span style={{ marginLeft: "0px" }}>Role: Dimmer Board Operator</span>
                 </>
                }
@@ -70,6 +72,7 @@ function Projects() {
                 <>
                   Director: Eli Buie<br />
                   <span style={{ marginLeft: "0px" }}>DP: Audrey Weber</span><br />
+                  <span style={{ marginLeft: "0px" }}>Gaffer: Dominic Mongelli</span><br />
                   <span style={{ marginLeft: "0px" }}>Role: Dimmer Board Operator</span>
                 </>
                }
@@ -86,6 +89,7 @@ function Projects() {
             <>
               Director: Yihui Hu<br />
               <span style={{ marginLeft: "0px" }}>DP: Aris KaiKiu Lui</span><br />
+                  <span style={{ marginLeft: "0px" }}>Gaffer: Aylene Lopez</span><br />
                   <span style={{ marginLeft: "0px" }}>Role: Dimmer Board Operator</span>
             </>
            }
@@ -102,6 +106,7 @@ function Projects() {
                 <>
                   Directors: Victor Garcés & Kronovox<br />
                   <span style={{ marginLeft: "0px" }}>DP: Victor Garcés</span><br />
+                  <span style={{ marginLeft: "0px" }}>CLT: Sean Dagiwa</span><br />
                   <span style={{ marginLeft: "0px" }}>Role: Dimmer Board Operator</span>
                 </>
                }
@@ -134,6 +139,7 @@ function Projects() {
                 <>
                   Director: Evan Showalter<br />
                   <span style={{ marginLeft: "0px" }}>DP: Amaryllis Velasquez</span><br />
+                  <span style={{ marginLeft: "0px" }}>Gaffer: Logan Parrish</span><br />
                   <span style={{ marginLeft: "0px" }}>Role: Dimmer Board Operator</span>
                 </>
                }
@@ -150,6 +156,7 @@ function Projects() {
                 <>
                   Directors: Tyler Grandalski & Tanja Meyer<br />
                   <span style={{ marginLeft: "0px" }}>DP: Karson Kane</span><br />
+                  <span style={{ marginLeft: "0px" }}>Gaffer: Logan Parrish</span><br />
                   <span style={{ marginLeft: "0px" }}>Role: Dimmer Board Operator</span>
                 </>
                }
@@ -166,6 +173,7 @@ function Projects() {
                 <>
                   Director: Noah Keckler<br />
                   <span style={{ marginLeft: "0px" }}>DP: Sofia Santos</span><br />
+                  <span style={{ marginLeft: "0px" }}>Gaffer: Logan Parrish</span><br />
                   <span style={{ marginLeft: "0px" }}>Role: Best Boy Grip</span>
                 </>
                }
@@ -182,6 +190,7 @@ function Projects() {
                 <>
                   Director Dallys Dorsey<br />
                   <span style={{ marginLeft: "0px" }}>DP: Danny Lencioni</span><br />
+                  <span style={{ marginLeft: "0px" }}>Gaffer: Logan Parrrish</span><br />
                   <span style={{ marginLeft: "0px" }}>Role: Swing Electric</span>
                 </>
                }
@@ -198,6 +207,7 @@ function Projects() {
                 <>
                   Director Dallys Dorsey<br />
                   <span style={{ marginLeft: "0px" }}>DP: Danny Lencioni</span><br />
+                  <span style={{ marginLeft: "0px" }}>Gaffer: Logan Parrish</span><br />
                   <span style={{ marginLeft: "0px" }}>Role: Swing Electric</span>
                 </>
                }
@@ -214,6 +224,7 @@ function Projects() {
                 <>
                   Director Evan Showalter<br />
                   <span style={{ marginLeft: "0px" }}>DP: Sofia Santos</span><br />
+                  <span style={{ marginLeft: "0px" }}>Gaffer: Logan Parrish</span><br />
                   <span style={{ marginLeft: "0px" }}>Role: Grip</span>
                 </>
                }
@@ -230,6 +241,7 @@ function Projects() {
                 <>
                   Director Evan Showalter<br />
                   <span style={{ marginLeft: "0px" }}>DP: Sofia Santos</span><br />
+                  <span style={{ marginLeft: "0px" }}>Gaffer: Logan Parrish</span><br />
                   <span style={{ marginLeft: "0px" }}>Role: Grip</span>
                 </>
                }
@@ -246,6 +258,7 @@ function Projects() {
                 <>
                   Director Jewells Santos<br />
                   <span style={{ marginLeft: "0px" }}>DP: Paige Hochstatter</span><br />
+                  <span style={{ marginLeft: "0px" }}>Gaffer: Karson Kane</span><br />
                   <span style={{ marginLeft: "0px" }}>Role: Swing Electric</span>
                 </>
                }
