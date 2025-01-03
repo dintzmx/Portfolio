@@ -15,13 +15,13 @@ function BTS() {
           A compilation of vlogs that focus on the different G&E teams I work with!
         </p>
         <Row style={{ justifyContent: "center", paddingBottom: "10px" }}>
-          <Col md={4} className="project-card">
+          {/* <Col md={4} className="project-card">
             <BTSProjectCards
               demoLink="https://www.youtube.com/watch?v=b8mGsLxMbJU"
               title="'Scream 'Til You Bleed' (Fall 2024)"
               description="Runtime: 25 minutes & 13 seconds"
             />
-          </Col>
+          </Col> */}
           <Col md={4} className="project-card">
             <BTSProjectCards
               demoLink="https://www.youtube.com/watch?v=E5gLq6XPwbU"
