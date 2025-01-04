@@ -224,7 +224,7 @@ function Projects() {
                 <>
                   Director Evan Showalter<br />
                   <span style={{ marginLeft: "0px" }}>DP: Sofia Santos</span><br />
-                  <span style={{ marginLeft: "0px" }}>Gaffer: Logan Parrish</span><br />
+                  <span style={{ marginLeft: "0px" }}>Gaffer: Connor Blegen</span><br />
                   <span style={{ marginLeft: "0px" }}>Role: Grip</span>
                 </>
                }
