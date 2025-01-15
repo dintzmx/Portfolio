@@ -18,6 +18,8 @@ import "./App.css";
 //import "font-awesome-icons"
 import "bootstrap/dist/css/bootstrap.min.css";
 import BTS from "./components/BTSProjects/BTS";
+import GearList from "./components/GearList/GearList.js";
+
 
 function App() {
   const [load, upadateLoad] = useState(true);
@@ -41,8 +43,11 @@ function App() {
           <Route path="/project" element={<Projects />} />
           <Route path="/BTS" element={<BTS />} />
           <Route path="/about" element={<About />} />
+          <Route path="/gear-list" element={<GearList />} />
           <Route path="/resume" element={<Resume />} />
+          
           <Route path="*" element={<Navigate to="/" />} />
+
         </Routes>
         <Footer />
       </div>
