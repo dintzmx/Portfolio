@@ -66,65 +66,63 @@ function GearList() {
               <Page pageNumber={pageNumber} scale={getScale()} />
 
               {/* Previous Button */}
-              <Button
-                variant="dark"
-                onClick={prevPage}
-                disabled={pageNumber <= 1}
-                style={{
-                  position: "absolute",
-                  top: "50%",
-                  left: "5px",  // Closer to the PDF
-                  transform: "translateY(-50%)",
-                  opacity: 0.8,
-                  borderRadius: "50%",
-                  padding: "6px 10px",
-                  zIndex: 10,
-                  backgroundColor: "#333",
-                  border: "none",
-                }}
-              >
-                <AiOutlineLeft size={20} />
-              </Button>
+              {numPages > 1 && (
+                <Button
+                  variant="dark"
+                  onClick={prevPage}
+                  disabled={pageNumber <= 1}
+                  style={{
+                    position: "absolute",
+                    top: "50%",
+                    left: "5px",
+                    transform: "translateY(-50%)",
+                    opacity: 0.8,
+                    borderRadius: "50%",
+                    padding: "6px 10px",
+                    zIndex: 10,
+                    backgroundColor: "#333",
+                    border: "none",
+                  }}
+                >
+                  <AiOutlineLeft size={20} />
+                </Button>
+              )}
 
               {/* Next Button */}
-              <Button
-                variant="dark"
-                onClick={nextPage}
-                disabled={pageNumber >= numPages}
-                style={{
-                  position: "absolute",
-                  top: "50%",
-                  right: "5px",  // Closer to the PDF
-                  transform: "translateY(-50%)",
-                  opacity: 0.8,
-                  borderRadius: "50%",
-                  padding: "6px 10px",
-                  zIndex: 10,
-                  backgroundColor: "#333",
-                  border: "none",
-                }}
-              >
-                <AiOutlineRight size={20} />
-              </Button>
+              {numPages > 1 && (
+                <Button
+                  variant="dark"
+                  onClick={nextPage}
+                  disabled={pageNumber >= numPages}
+                  style={{
+                    position: "absolute",
+                    top: "50%",
+                    right: "5px",
+                    transform: "translateY(-50%)",
+                    opacity: 0.8,
+                    borderRadius: "50%",
+                    padding: "6px 10px",
+                    zIndex: 10,
+                    backgroundColor: "#333",
+                    border: "none",
+                  }}
+                >
+                  <AiOutlineRight size={20} />
+                </Button>
+              )}
             </div>
           </Document>
         </div>
       </Row>
 
       {/* Page Indicator */}
-      <Row style={{ justifyContent: "center", marginTop: "10px" }}>
-        <p>
-          Page {pageNumber} of {numPages}
-        </p>
-      </Row>
-
-      {/* Bottom Download Button */}
-      <Row style={{ justifyContent: "center", paddingTop: "20px" }}>
-        <Button variant="primary" href={pdf} target="_blank" style={{ maxWidth: "250px" }}>
-          <AiOutlineDownload />
-          &nbsp;Download Gear List
-        </Button>
-      </Row>
+      {numPages > 1 && (
+        <Row style={{ justifyContent: "center", marginTop: "10px" }}>
+          <p>
+            Page {pageNumber} of {numPages}
+          </p>
+        </Row>
+      )}
     </Container>
   );
 }
