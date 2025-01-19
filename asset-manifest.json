@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.4fe1b58d.css",
-    "main.js": "/static/js/main.cd8560a3.js",
+    "main.js": "/static/js/main.27fccc3f.js",
     "static/js/770.a36fb58a.chunk.js": "/static/js/770.a36fb58a.chunk.js",
     "static/js/453.ace21015.chunk.js": "/static/js/453.ace21015.chunk.js",
     "static/media/pfp.jpeg": "/static/media/pfp.128d95f47156fbad8cf5.jpeg",
@@ -24,16 +24,16 @@
     "static/media/David Lee CV 2023-2024.pdf": "/static/media/David Lee CV 2023-2024.a9865dc98fa65e0302fb.pdf",
     "static/media/home-bg.jpg": "/static/media/home-bg.346adffd09d901330bb0.jpg",
     "static/media/Gear List 2024.pdf": "/static/media/Gear List 2024.99f58dbc66152aee6efe.pdf",
-    "static/media/logo.png": "/static/media/logo.c2e37852e38f92d7b1a4.png",
+    "static/media/logo.png": "/static/media/logo.0ab350346afa2cdf0aec.png",
     "index.html": "/index.html",
     "static/media/pre.svg": "/static/media/pre.8f0ac3d63f43665b3c3a.svg",
     "main.4fe1b58d.css.map": "/static/css/main.4fe1b58d.css.map",
-    "main.cd8560a3.js.map": "/static/js/main.cd8560a3.js.map",
+    "main.27fccc3f.js.map": "/static/js/main.27fccc3f.js.map",
     "770.a36fb58a.chunk.js.map": "/static/js/770.a36fb58a.chunk.js.map",
     "453.ace21015.chunk.js.map": "/static/js/453.ace21015.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.4fe1b58d.css",
-    "static/js/main.cd8560a3.js"
+    "static/js/main.27fccc3f.js"
   ]
 }
