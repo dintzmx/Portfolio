@@ -28,15 +28,15 @@ function Home2() {
               
                 <b className="purple"> Blackout Lighting Console, </b> 
                 but I am also versed in <b className="purple">Luminair, Sidus Link Pro, </b>
-                and currently in the process of learning<b className="purple"> ETC. </b>
+                and currently in the process of learning<b className="purple"> ETC EOS. </b>
               
               <br />
               <br />
-              I provide <b className="purple">hardware and software rentals </b>for <b className="purple">hard-line and wireless DMX (CRMX)</b>, as well as
+              I provide <b className="purple">hardware and software packages </b>based around <b className="purple">hard-line and wireless DMX (CRMX)</b>, as well as
                 some basic{" "} <b className="purple">camera gear packages</b> for <b className="purple">tight space/small rig shots (Sony FX30)</b>.
               <br/>
               <br/>
-              I additionally offer on set solutions that require expertise in <b className="purple"> building + managing temporary or permanent lighting network infrastructures, console programming, and board operation</b>.
+              With the gear, I offer on set solutions that require expertise in <b className="purple"> building + managing temporary or permanent lighting network infrastructures, console programming, and board operation</b>.
               
               <br />
               <br />
