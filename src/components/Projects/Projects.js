@@ -106,7 +106,7 @@ function Projects() {
                 <>
                   Directors: Victor Garcés & Kronovox<br />
                   <span style={{ marginLeft: "0px" }}>DP: Victor Garcés</span><br />
-                  <span style={{ marginLeft: "0px" }}>CLT: Sean Dagiwa</span><br />
+                  <span style={{ marginLeft: "0px" }}>CLT: Sean Altuna</span><br />
                   <span style={{ marginLeft: "0px" }}>Role: Dimmer Board Operator</span>
                 </>
                }
