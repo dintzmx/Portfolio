@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.4fe1b58d.css",
-    "main.js": "/static/js/main.a052f150.js",
+    "main.js": "/static/js/main.80d9a513.js",
     "static/js/770.a36fb58a.chunk.js": "/static/js/770.a36fb58a.chunk.js",
     "static/js/453.ace21015.chunk.js": "/static/js/453.ace21015.chunk.js",
     "static/media/pfp.jpeg": "/static/media/pfp.128d95f47156fbad8cf5.jpeg",
@@ -14,6 +14,7 @@
     "static/media/DWCITMON Still.png": "/static/media/DWCITMON Still.8df96abe60a570176c6f.png",
     "static/media/Dont Speak Still.png": "/static/media/Dont Speak Still.f0d1cb1b1646679be455.png",
     "static/media/Lluvia Still.png": "/static/media/Lluvia Still.8005b88290ce30682a1f.png",
+    "static/media/Lone Star Still.png": "/static/media/Lone Star Still.f60f7d66e5574b29064f.png",
     "static/media/Marble Tissues Still.png": "/static/media/Marble Tissues Still.0bed1ac581517773f486.png",
     "static/media/The Seance Still.png": "/static/media/The Seance Still.1ed6b1496cda0ee51964.png",
     "static/media/He Still.png": "/static/media/He Still.7dcba08e2734ac19c508.png",
@@ -28,12 +29,12 @@
     "index.html": "/index.html",
     "static/media/pre.svg": "/static/media/pre.8f0ac3d63f43665b3c3a.svg",
     "main.4fe1b58d.css.map": "/static/css/main.4fe1b58d.css.map",
-    "main.a052f150.js.map": "/static/js/main.a052f150.js.map",
+    "main.80d9a513.js.map": "/static/js/main.80d9a513.js.map",
     "770.a36fb58a.chunk.js.map": "/static/js/770.a36fb58a.chunk.js.map",
     "453.ace21015.chunk.js.map": "/static/js/453.ace21015.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.4fe1b58d.css",
-    "static/js/main.a052f150.js"
+    "static/js/main.80d9a513.js"
   ]
 }
