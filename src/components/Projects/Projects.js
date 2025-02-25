@@ -16,6 +16,7 @@ import Jitter from "/Users/DavidLee/Documents/GitHub/Portfolio/src/Assets/Projec
 import Leaching from "/Users/DavidLee/Documents/GitHub/Portfolio/src/Assets/Projects/The Leaching Still.png";
 import Oz from "/Users/DavidLee/Documents/GitHub/Portfolio/src/Assets/Projects/oz Still.png"
 import Eureka from "/Users/DavidLee/Documents/GitHub/Portfolio/src/Assets/Projects/Eureka Still.png"
+import Lonestar from "/Users/DavidLee/Documents/GitHub/Portfolio/src/Assets/Projects/Lone Star Still.png"
 
 function Projects() {
   return (
@@ -130,6 +131,23 @@ function Projects() {
                 />
           </Col> */}
           
+          <Col md={4} className="project-card">
+            <ProjectCard
+              imgPath={Lonestar}
+              isBlog={false}
+              title="Lone Star"
+              description={
+                <>
+                  Director: Eli Buie<br />
+                  <span style={{ marginLeft: "0px" }}>DP: Tor Olsen</span><br />
+                  <span style={{ marginLeft: "0px" }}>Gaffer: Logan Parrish</span><br />
+                  <span style={{ marginLeft: "0px" }}>Role: Best Grip/Board Op</span>
+                </>
+               }
+                demoLink="https://www.youtube.com/watch?v=ndT__flMB6o"
+                />
+          </Col>
+
           <Col md={4} className="project-card">
             <ProjectCard
               imgPath={Leaching}
