@@ -17,6 +17,7 @@ import Leaching from "/Users/DavidLee/Documents/GitHub/Portfolio/src/Assets/Proj
 import Oz from "/Users/DavidLee/Documents/GitHub/Portfolio/src/Assets/Projects/oz Still.png"
 import Eureka from "/Users/DavidLee/Documents/GitHub/Portfolio/src/Assets/Projects/Eureka Still.png"
 import Lonestar from "/Users/DavidLee/Documents/GitHub/Portfolio/src/Assets/Projects/Lone Star Still.png"
+import NoMelody from "/Users/DavidLee/Documents/GitHub/Portfolio/src/Assets/Projects/No Melody Still.png"
 
 function Projects() {
   return (
@@ -230,6 +231,23 @@ function Projects() {
                 </>
                }
                 demoLink="https://youtu.be/TPpdtjZDYnY?si=ER6Dooji587cn9LN"
+                />
+          </Col>
+
+          <Col md={4} className="project-card">
+            <ProjectCard
+              imgPath={NoMelody}
+              isBlog={false}
+              title="No Melody -Femi Ishola (M/V)"
+              description={
+                <>
+                  Director Dallys Dorsey<br />
+                  <span style={{ marginLeft: "0px" }}>DP: Danny Lencioni</span><br />
+                  <span style={{ marginLeft: "0px" }}>Gaffer: Logan Parrish</span><br />
+                  <span style={{ marginLeft: "0px" }}>Role: Swing Electric</span>
+                </>
+               }
+                demoLink="https://www.instagram.com/p/C2BDOEov8sy/"
                 />
           </Col>
           
