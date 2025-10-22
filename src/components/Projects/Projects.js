@@ -61,7 +61,7 @@ function Projects() {
                   <span style={{ marginLeft: "0px" }}>Role: Dimmer Board Operator</span>
                 </>
                }
-                demoLink="https://www.afrimzenuni.com/"
+                demoLink="https://vimeo.com/1109263745"
             />
           </Col>
 
