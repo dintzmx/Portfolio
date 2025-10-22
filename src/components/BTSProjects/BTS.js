@@ -63,6 +63,30 @@ function BTS() {
                }
             />
           </Col>
+          <Col md={4} className="project-card">
+            <BTSProjectCards
+              demoLink="https://www.youtube.com/watch?v=HNyKUAaX1BI"
+              title="Chicago Keyboard Meetup 2022 - Belong #2 (Event)"
+              description={
+                <>
+                  Role: Director/DP<br />
+                  <span style={{ marginLeft: "0px" }}>Runtime: 20 Minutes 06 Seconds</span>
+                </>
+               }
+            />
+          </Col>
+          <Col md={4} className="project-card">
+            <BTSProjectCards
+              demoLink="https://www.youtube.com/watch?v=-h2JFyFbGs0"
+              title="That Windy City Keeb Meet 2023 | Chicago Keyboard Meetup (Event)"
+              description={
+                <>
+                  Role: Director/DP<br />
+                  <span style={{ marginLeft: "0px" }}>Runtime: 4 Minutes 33 Seconds</span>
+                </>
+               }
+            />
+          </Col>
         </Row>
       </Container>
     </Container>
