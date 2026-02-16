@@ -22,6 +22,7 @@ function BTS() {
               description="Runtime: 25 minutes & 13 seconds"
             />
           </Col> */}
+         {/*
           <Col md={4} className="project-card">
             <BTSProjectCards
               demoLink="https://www.youtube.com/watch?v=E5gLq6XPwbU"
@@ -29,6 +30,7 @@ function BTS() {
               description="Runtime: 16 minutes & 19 seconds"
             />
           </Col>
+          */}
         </Row>
 
         {/* New Section */}
