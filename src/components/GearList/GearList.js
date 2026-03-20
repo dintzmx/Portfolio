@@ -1,7 +1,7 @@
 import React, { useState, useEffect } from "react";
 import { Container, Row, Button } from "react-bootstrap";
 import Particle from "../Particle";
-import pdf from "/Users/DavidLee/Documents/GitHub/Portfolio/src/Assets/Gear List 2024.pdf";
+import pdf from "/Users/DavidLee/Documents/GitHub/Portfolio/src/Assets/DintzMX Lighting LLC Gear List Doc.pdf";
 import { AiOutlineDownload, AiOutlineLeft, AiOutlineRight } from "react-icons/ai";
 import { Document, Page, pdfjs } from "react-pdf";
 import "react-pdf/dist/esm/Page/AnnotationLayer.css";
